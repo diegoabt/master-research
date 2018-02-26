@@ -1,0 +1,24 @@
+100
+pagerank 77
+leaves 78
+degree 91
+200
+pagerank 65
+leaves 87
+degree 113
+300
+pagerank 62
+leaves 86
+degree 112
+400
+pagerank 59
+leaves 90
+degree 103
+500
+pagerank 53
+leaves 83
+degree 92
+1000
+pagerank 37
+leaves 64
+degree 86

@@ -1,0 +1,352 @@
+RESULTS: UA(50) & SIM=50 ||||||||||||||||||||||||||||||||||
+all the estimators looking for the source in the same graph
+SIM:_______= 0
+shah 4
+simple 4
+distance 4
+leaves rem 7
+pagerank 1
+degree 1
+SIM:_______= 1
+shah 4
+simple 0
+distance 0
+leaves rem 0
+pagerank 4
+degree 4
+SIM:_______= 2
+shah 0
+simple 0
+distance 0
+leaves rem 0
+pagerank 8
+degree 1
+SIM:_______= 3
+shah 1
+simple 1
+distance 1
+leaves rem 1
+pagerank 2
+degree 2
+SIM:_______= 4
+shah 1
+simple 1
+distance 1
+leaves rem 2
+pagerank 2
+degree 2
+SIM:_______= 5
+shah 1
+simple 1
+distance 1
+leaves rem 1
+pagerank 0
+degree 0
+SIM:_______= 6
+shah 0
+simple 0
+distance 0
+leaves rem 4
+pagerank 2
+degree 2
+SIM:_______= 7
+shah 2
+simple 2
+distance 2
+leaves rem 7
+pagerank 0
+degree 0
+SIM:_______= 8
+shah 1
+simple 1
+distance 1
+leaves rem 2
+pagerank 0
+degree 0
+SIM:_______= 9
+shah 0
+simple 0
+distance 0
+leaves rem 30
+pagerank 0
+degree 0
+SIM:_______= 10
+shah 1
+simple 1
+distance 1
+leaves rem 3
+pagerank 14
+degree 14
+SIM:_______= 11
+shah 1
+simple 1
+distance 1
+leaves rem 4
+pagerank 7
+degree 7
+SIM:_______= 12
+shah 1
+simple 0
+distance 0
+leaves rem 0
+pagerank 3
+degree 3
+SIM:_______= 13
+shah 5
+simple 5
+distance 5
+leaves rem 5
+pagerank 13
+degree 6
+SIM:_______= 14
+shah 4
+simple 4
+distance 4
+leaves rem 4
+pagerank 10
+degree 4
+SIM:_______= 15
+shah 1
+simple 1
+distance 1
+leaves rem 2
+pagerank 6
+degree 6
+SIM:_______= 16
+shah 0
+simple 0
+distance 0
+leaves rem 8
+pagerank 13
+degree 13
+SIM:_______= 17
+shah 0
+simple 0
+distance 0
+leaves rem 0
+pagerank 0
+degree 0
+SIM:_______= 18
+shah 1
+simple 1
+distance 1
+leaves rem 5
+pagerank 1
+degree 1
+SIM:_______= 19
+shah 2
+simple 2
+distance 2
+leaves rem 3
+pagerank 15
+degree 7
+SIM:_______= 20
+shah 0
+simple 0
+distance 0
+leaves rem 3
+pagerank 3
+degree 0
+SIM:_______= 21
+shah 1
+simple 1
+distance 1
+leaves rem 0
+pagerank 7
+degree 0
+SIM:_______= 22
+shah 3
+simple 3
+distance 3
+leaves rem 3
+pagerank 28
+degree 28
+SIM:_______= 23
+shah 1
+simple 1
+distance 1
+leaves rem 2
+pagerank 6
+degree 6
+SIM:_______= 24
+shah 1
+simple 1
+distance 1
+leaves rem 4
+pagerank 2
+degree 1
+SIM:_______= 25
+shah 0
+simple 0
+distance 0
+leaves rem 3
+pagerank 2
+degree 2
+SIM:_______= 26
+shah 1
+simple 0
+distance 0
+leaves rem 6
+pagerank 1
+degree 1
+SIM:_______= 27
+shah 3
+simple 3
+distance 3
+leaves rem 4
+pagerank 1
+degree 1
+SIM:_______= 28
+shah 0
+simple 0
+distance 0
+leaves rem 1
+pagerank 0
+degree 0
+SIM:_______= 29
+shah 3
+simple 1
+distance 1
+leaves rem 0
+pagerank 3
+degree 3
+SIM:_______= 30
+shah 5
+simple 5
+distance 5
+leaves rem 0
+pagerank 5
+degree 5
+SIM:_______= 31
+shah 0
+simple 0
+distance 0
+leaves rem 2
+pagerank 3
+degree 3
+SIM:_______= 32
+shah 1
+simple 1
+distance 1
+leaves rem 12
+pagerank 3
+degree 3
+SIM:_______= 33
+shah 2
+simple 2
+distance 2
+leaves rem 2
+pagerank 0
+degree 0
+SIM:_______= 34
+shah 2
+simple 2
+distance 2
+leaves rem 2
+pagerank 3
+degree 3
+SIM:_______= 35
+shah 2
+simple 2
+distance 2
+leaves rem 0
+pagerank 7
+degree 7
+SIM:_______= 36
+shah 3
+simple 1
+distance 1
+leaves rem 3
+pagerank 25
+degree 0
+SIM:_______= 37
+shah 1
+simple 1
+distance 1
+leaves rem 1
+pagerank 4
+degree 4
+SIM:_______= 38
+shah 2
+simple 2
+distance 2
+leaves rem 2
+pagerank 6
+degree 2
+SIM:_______= 39
+shah 0
+simple 0
+distance 0
+leaves rem 7
+pagerank 0
+degree 0
+SIM:_______= 40
+shah 0
+simple 0
+distance 0
+leaves rem 2
+pagerank 0
+degree 0
+SIM:_______= 41
+shah 7
+simple 3
+distance 3
+leaves rem 7
+pagerank 10
+degree 10
+SIM:_______= 42
+shah 6
+simple 5
+distance 5
+leaves rem 21
+pagerank 19
+degree 19
+SIM:_______= 43
+shah 1
+simple 1
+distance 1
+leaves rem 1
+pagerank 1
+degree 1
+SIM:_______= 44
+shah 3
+simple 3
+distance 3
+leaves rem 7
+pagerank 0
+degree 0
+SIM:_______= 45
+shah 1
+simple 1
+distance 1
+leaves rem 3
+pagerank 7
+degree 7
+SIM:_______= 46
+shah 3
+simple 3
+distance 3
+leaves rem 2
+pagerank 11
+degree 4
+SIM:_______= 47
+shah 1
+simple 1
+distance 1
+leaves rem 0
+pagerank 1
+degree 1
+SIM:_______= 48
+shah 1
+simple 0
+distance 0
+leaves rem 2
+pagerank 1
+degree 1
+SIM:_______= 49
+shah 0
+simple 0
+distance 0
+leaves rem 0
+pagerank 0
+degree 0
