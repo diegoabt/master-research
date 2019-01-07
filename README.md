@@ -1,7 +1,6 @@
-## master-research
+### master-research
 
-# Root-finding Algorithms for Random Trees:
-Theory and Simulations
+## Root-finding Algorithms for Random Trees: Theory and Simulations
 
 We study the problem of finding the first vertex in a randomly generated tree. This problem
 can be thought as finding the source of a rumor spread in a social network. We use
@@ -24,7 +23,7 @@ the output set H and the third one about an one against all tournament.
 This repository contains both the theory and the scripts produced during my master's research. 
 
 #
-## Authors
+### Authors
 
 * **Diego Baptista Theuerkauf** 
-* ** Advisor: Dr. Roberto Imbuzeiro **
+* **Advisor: Dr. Roberto Imbuzeiro**
